@@ -168,6 +168,7 @@
 - Появляется уведомление "Черновик успешно сохранен".
 
 
+
 [1]: <#br-delivery-note-drafts-001>
 [2]: <#br-delivery-note-drafts-002>
 [3]: <../../../02-architecture/05-global-quality-attributes/NFR-PQ-PE-TB-001-Среднее время-отклика-v-1.0.md#>

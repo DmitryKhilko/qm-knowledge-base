@@ -54,7 +54,7 @@
 
 ### UC-DELIVERY-NOTE-DRAFTS-CREATE-001
 **Название**: Сохранение по требованию пользователя, автосохранение приватного черновика  
-**BG:** [BG-DELIVERY-NOTE-DRAFTS-004](#bg-drafts-004), [BG-DELIVERY-NOTE-DRAFTS-005](#bg-drafts-005)  
+**BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)    
 **Актор**: Пользователь с ролью [BR-DELIVERY-NOTE-DRAFTS-001](#br-delivery-note-drafts-001)  
 
 **Основной поток**:
@@ -88,7 +88,7 @@
 
 ### FR-DELIVERY-NOTE-DRAFTS-CREATE-001
 **Название:** Создание приватного черновика по требованию пользователя  
-**BG:** [BG-DELIVERY-NOTE-DRAFTS-004](#bg-drafts-004)  
+**BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)  
 **UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, основной поток](#uc-delivery-note-drafts-create-001)  
 **Тип:** create, event-driven  
 
@@ -105,7 +105,7 @@
 
 ### FR-DELIVERY-NOTE-DRAFTS-CREATE-002
 **Название:** Первое автоматическое сохранение приватного черновика  
-**BG:** [BG-DELIVERY-NOTE-DRAFTS-005](#bg-drafts-005)    
+**BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)    
 **UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, альтернативный поток А](#uc-delivery-note-drafts-create-001)  
 **Тип:** create, ubiquitous  
 
@@ -124,7 +124,7 @@
 
 ### NFR-PQ-PE-TB-DELIVERY-NOTE-DRAFTS-001
 **Наименование:**: Среднее время автосохранения черновика накладной  
-**BG:** [BG-DELIVERY-NOTE-DRAFTS-005](#bg-drafts-005)  
+**BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)  
 **UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, альтернативный поток А](#uc-delivery-note-drafts-create-001)  
 **FR:** [FR-DELIVERY-NOTE-DRAFTS-CREATE-002](#fr-delivery-note-drafts-create-002)  
 **Атрибут качества:** Performance Efficiency  

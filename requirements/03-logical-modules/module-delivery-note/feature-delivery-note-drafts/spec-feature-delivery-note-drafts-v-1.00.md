@@ -175,4 +175,5 @@
 [4]: <#nfr-pq-pe-tb-drafts-001>
 
 
+
 ["Я отказался от идеи такого обозначения детальных функциональностей в пользу полных русских названий **Детальная функциональность:** CREATE, READ, ACCESS CONTROL, SORT-FILTER, CREATE, UPDATE, DELETE, STATES-TRANSITIONS]: # 

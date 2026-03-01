@@ -149,7 +149,7 @@
 **Название:** Уведомление пользователя об ошибке создания приватного черновика 
 **BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)  
 **UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, альтернативный поток B](#uc-delivery-note-drafts-create-001)  
-**GUI:** TBD
+**GUI:** TBD  
 **Тип:** create, unwanted behavior  
 
 **Если** системе не удается создать приватный черновик накладной,  

@@ -232,7 +232,7 @@
 [2]: <#br-delivery-note-drafts-002>
 [3]: <../../../02-architecture/05-global-quality-attributes/NFR-PQ-PE-TB-001-Среднее время-отклика-v-1.0.md#>
 [4]: <#nfr-pq-pe-tb-drafts-001>
-[5]: <../image-001.png>
+[5]: <image-001.png>
 
 
 ["Я отказался от идеи такого обозначения детальных функциональностей в пользу полных русских названий **Детальная функциональность:** CREATE, READ, ACCESS CONTROL, SORT-FILTER, CREATE, UPDATE, DELETE, STATES-TRANSITIONS]: # 

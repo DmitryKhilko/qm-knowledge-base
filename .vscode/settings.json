@@ -1,4 +1,9 @@
 {
     "editor.rulers": [120],
-    "cSpell.language": "en,ru"
+    "cSpell.language": "en,ru",
+    "cSpell.words": [
+        "Автосохранение",
+        "автосохранения",
+        "Податрибут"
+    ]
 }

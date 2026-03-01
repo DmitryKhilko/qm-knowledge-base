@@ -101,7 +101,8 @@
 ### FR-DELIVERY-NOTE-DRAFTS-CREATE-001
 **Название:** Создание приватного черновика по требованию пользователя  
 **BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)  
-**UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, основной поток](#uc-delivery-note-drafts-create-001)  
+**UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, основной поток](#uc-delivery-note-drafts-create-001)
+**GUI:** [GUI-DELIVERY-NOTE-DRAFTS-001](#gui-delivery-note-drafts-001)  
 **Тип:** create, complex (state-driven + event-driven)  
 
 **Пока** пользователь имеет роль [BR-DELIVERY-NOTE-DRAFTS-001][1],  
@@ -165,14 +166,17 @@
 - АС 5: Уведомление пользователь может закрыть вручную.
 
 
-## 3.3. UI-ТРЕБОВАНИЯ
+## 3.3. GUI-ТРЕБОВАНИЯ
 
 ### GUI-DELIVERY-NOTE-DRAFTS-001
 **Название:** Кнопка сохранения черновика  
 **FR:** [FR-DELIVERY-NOTE-DRAFTS-CREATE-001](#fr-delivery-note-drafts-create-001)
 
-**Визуальное представление (прототип)**  
+**Визуальное представление (прототип):**
+
 ![Кнопка сохранения черновика](image-001.png)  
+
+
 
 
 
@@ -232,7 +236,6 @@
 [2]: <#br-delivery-note-drafts-002>
 [3]: <../../../02-architecture/05-global-quality-attributes/NFR-PQ-PE-TB-001-Среднее время-отклика-v-1.0.md#>
 [4]: <#nfr-pq-pe-tb-drafts-001>
-[5]: <image-001.png>
 
 
 ["Я отказался от идеи такого обозначения детальных функциональностей в пользу полных русских названий **Детальная функциональность:** CREATE, READ, ACCESS CONTROL, SORT-FILTER, CREATE, UPDATE, DELETE, STATES-TRANSITIONS]: # 

@@ -1,9 +1,9 @@
-import delivery_note 
+import code.delivery_note_draft 
 
-def delivery_note_draft_private_create():
+def test_delivery_note_draft_private_create():
     """
     Назначение: 
-    Создание приватного черновика накладной.
+    Проверка создания приватного черновика накладной.
 
     Требования:
     - спецификация: SPEC-FEATURE-DELIVERY-NOTE-DRAFTS

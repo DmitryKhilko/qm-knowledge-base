@@ -163,7 +163,7 @@
 ### FR-DELIVERY-NOTE-DRAFTS-CREATE-005
 **Название:** Уведомление пользователя об успешном создании приватного черновика  
 **BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)  
-**UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, основной поток](#uc-delivery-note-drafts-create-001) 
+**UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, основной поток](#uc-delivery-note-drafts-create-001)  
 **GUI:** [GUI-DELIVERY-NOTE-DRAFTS-002](#gui-delivery-note-drafts-002)   
 **Тип:** create, event-driven  
 
@@ -176,7 +176,7 @@
 - AC 2: Внешний вид и поведение уведомления полностью соответствуют [GUI-DELIVERY-NOTE-DRAFTS-002](#gui-delivery-note-drafts-002)
 
 ### FR-DELIVERY-NOTE-DRAFTS-CREATE-006
-**Название:** Уведомление пользователя об ошибке создания приватного черновика 
+**Название:** Уведомление пользователя об ошибке создания приватного черновика  
 **BG:** [BG-DELIVERY-NOTE-DRAFTS-001](#bg-delivery-note-drafts-001)  
 **UC:** [UC-DELIVERY-NOTE-DRAFTS-CREATE-001, альтернативный поток B](#uc-delivery-note-drafts-create-001)  
 **GUI:** TBD  

@@ -1,5 +1,4 @@
-**ID**: SPEC-FEATURE-DELIVERY-NOTE-DRAFTS  
-**Версия:** 1.00  
+**ID**: SPEC-FEATURE-DELIVERY-NOTE-DRAFTS-V-1.00  
 **Статус:** Утверждено  
 **Дата создания:** 01.02.2026  
 **Автор:** Дмитрий Хилько  

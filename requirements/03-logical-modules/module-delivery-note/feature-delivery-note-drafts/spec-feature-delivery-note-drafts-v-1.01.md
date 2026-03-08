@@ -184,6 +184,7 @@ BG: BG-DELIVERY-NOTE-DRAFTS-001
 UC: UC-DELIVERY-NOTE-DRAFTS-CREATE-001, основной поток  
 UI: TBD    
 Type: create  
+
 Feature: Изменение значения счётчика количества черновиков при создании приватного черновика  
 
     Background: 
